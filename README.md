@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Asp.net [Stock Api](https://github.com/yusufBak1r/StockApi)
 
-- 🌱 I’m currently learning .Net and swift **SwiftUI**
+- 🌱 I’m currently learning .Net and swift 
 
 - 👨‍💻 All of my projects are available at [https://github.com/yusufBak1r](https://github.com/yusufBak1r)
 
