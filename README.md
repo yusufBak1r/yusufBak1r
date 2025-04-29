@@ -2,7 +2,7 @@
 <h3 align="center">An engineer dedicated to software</h3>
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="YOUR-ALT-TEXT" width="150" height="150">
 
-- 🔭 I’m currently working on Asp.net [Stock Api](https://github.com/yusufBak1r/StockApi)
+- 🔭 I’m currently working on Asp.net [Knn-Model](https://github.com/yusufBak1r/Knn_Model)
 
 - 🌱 I’m currently learning .Net and swift 
 
