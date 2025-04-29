@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Bakır</h1>
-<h3 align="center">An engineer dedicated to software</h3>
+<h3 align="center">so-called engineer</h3>
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="YOUR-ALT-TEXT" width="150" height="150">
 
 - 🔭 I’m currently working on Knn-Model [Knn-Model](https://github.com/yusufBak1r/Knn_Model)
